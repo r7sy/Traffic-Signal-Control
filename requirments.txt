@@ -1,0 +1,5 @@
+tensorflow==2.4.1
+tensorboard==2.4.1
+tensorflow-probablity==0.12.1
+gym==0.18.0
+git+https://github.com/cityflow-project/CityFlow.git
