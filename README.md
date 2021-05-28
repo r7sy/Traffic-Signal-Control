@@ -11,5 +11,9 @@ git clone https://github.com/r7sy/tlc_baselines.git
 ```
 
 this repository contains a gym environment wrapper for CityFlow.
+# Running the code
+Run runner.py to run an experiment.
 
-run runner.py to run an experiment.
+# Dataset
+
+The dataset files are the same files available in this [repository](https://github.com/Chacha-Chen/MPLight).
