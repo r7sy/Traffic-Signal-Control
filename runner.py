@@ -15,7 +15,7 @@ from tlc_baselines.generator import LaneVehicleGenerator,IntersectionVehicleGene
 from tlc_baselines.metric import TravelTimeMetric
 import json
 
-
+# Taken from https://github.com/rlworkgroup/garage
 def compute_advantages(discount,
                        gae_lambda,
                        max_len,
