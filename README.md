@@ -1,4 +1,5 @@
 This repository contains the code and some reults for the Credit Assignment in Traffic Signal Control MSc thesis.
+The thesis is included as a PDF file.
 
 # Prerequistits
 To run this code install the requirments by running
