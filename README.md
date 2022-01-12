@@ -1,4 +1,4 @@
-This repository contains the code and some reults for the Traffic Signal Control using Deep Implicit Coordination Graphs MSc thesis.
+This repository contains the code and some reults for the Credit Assignment in Traffic Signal Control MSc thesis.
 
 # Prerequistits
 To run this code install the requirments by running
